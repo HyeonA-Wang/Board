@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/WEB-INF/config/presentation-layer.xml=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/board/getBoard.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/board/getBoardList.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/board/regBoard.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/users/login.jsp=UTF-8
